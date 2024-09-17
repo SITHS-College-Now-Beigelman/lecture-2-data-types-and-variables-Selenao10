@@ -35,3 +35,19 @@ int main()
 
     return 0;
 }
+
+/*
+
+int: 11
+float: 11.1
+double: 3.33
+myLetter: S
+myString: home
+
+A < B = 0
+
+2 + 3.5 = 5.5
+6 / 4 +3.9 = 4.9
+5.4*2 - (13.6 + 18 / 2) -11.8
+
+*/
